@@ -1,0 +1,219 @@
+[
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504600115860,
+            "changeTime": 1504600115860,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504600115860,
+            "changeTime": 1504600115860,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504602196992,
+            "changeTime": 1504602196992,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504600503447,
+            "changeTime": 1504600503447,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504600503470,
+            "changeTime": 1504600503470,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1504600680196,
+            "changeTime": 1504600680196,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1504600503462,
+            "changeTime": 1504600503462,
+            "contentHash": "8aa185141635929bfe1cb48799647c1eb1f1a0d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504600503467,
+            "changeTime": 1504600503467,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1504600678049,
+            "changeTime": 1504600678050,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504600503465,
+            "changeTime": 1504600503465,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504600503470,
+            "changeTime": 1504600503470,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX",
+        {
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504600741963,
+            "changeTime": 1504600741963,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6554,
+            "modifiedTime": 1504602196995,
+            "changeTime": 1504602196995,
+            "contentHash": "fe39532a2d19fa49cb78cc127fec1e5af9e31526"
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6554,
+            "modifiedTime": 1504602197049,
+            "changeTime": 1504602197049,
+            "contentHash": "92828e84f3f03b2896e68104e80a2aa358683064"
+        }
+    ],
+    [
+        "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "E:\\Priyank\\Salesforce DX\\Salesforce Workshop\\SFDX\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504602197039,
+            "changeTime": 1504602197039,
+            "contentHash": "7d76c32fcdc0ac63af5fdeb7ec1e42a27cd1dfcb"
+        }
+    ]
+]
